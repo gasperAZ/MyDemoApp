@@ -1,0 +1,12 @@
+C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MyApp
+--content-root=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Home\About.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Home\Contact.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Home\Index.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Shared\Error.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Shared\_Layout.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\_ViewImports.cshtml
+--file=C:\Users\gaspa\Desktop\ASP.NET & Docker\Demo\MyApp\Views\_ViewStart.cshtml
